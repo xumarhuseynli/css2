@@ -1,0 +1,21 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.box1{border: 9px solid red;
+ text-align: center;
+padding-top: 15px;
+width: 180px;
+height: 70px;
+margin: 15px 10px ;}
+.box2{border: 9px dotted red;
+    text-align: center;
+    padding-top: 15px;
+    width: 180px;
+    height: 70px;
+margin: 15px 10px;}
+    .box3{border: 9px dashed red;
+        text-align: center;
+        padding-top: 15px;
+        width: 180px;
+        height: 70px;
+    margin: 15px 10px;}

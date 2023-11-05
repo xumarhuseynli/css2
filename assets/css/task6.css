@@ -1,0 +1,16 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.box1{color: violet;
+border: 3px dashed violet;
+margin-bottom: 20Opx;
+margin-bottom: 30px;}
+.box2{color: red;
+border: 3px solid red;
+margin-bottom: 30px;}
+.box3{color: green;
+border-top: 3px solid rgb(127, 127, 127);
+border-left: 3px solid rgb(127, 127, 127);
+border-right: 3px solid rgb(127, 127, 127, 0.455);
+border-bottom: 3px solid rgb(127, 127, 127, 0.455);
+margin-bottom: 20px;}

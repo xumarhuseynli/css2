@@ -1,0 +1,20 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.box1{margin: 10px 0px;}
+.box2{border: 4px dotted black;
+margin: 10px 0px;}
+.box3{ border: 4px dashed black;
+margin: 10px 0px;}
+.box4{border: 4px solid black;
+margin:10px 0px;}
+.box5{border: 4px double black;
+margin: 10px 0px;}
+.box6{border: 4px groove green;
+margin: 10px 0px;}
+.box7{border: 4px ridge green;
+margin: 10px 0px;}
+.box8{border: 4px inset green;
+margin: 10px  0px;}
+.box9{border: 4px outset green;
+margin: 10px 0px;}

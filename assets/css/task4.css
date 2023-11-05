@@ -1,0 +1,26 @@
+*{margin: 0;
+box-sizing: border-box;
+background-color: aqua;}
+h1{font-weight: bolder; 
+
+margin: 10px ;
+margin-left: 5px;}
+
+.style{color: brown; font-style: italic;
+margin-left: 20px;} 
+a{color: darkblue;
+font-weight: 600;
+margin-left: 20px;}
+
+.url{color: darkblue;
+    margin-left: 20px;
+}
+.box1{border: 2px dashed black;
+color: crimson;
+margin-left: 10px;
+}
+.justify{ margin-left: 20px;}
+h3{color: crimson;
+margin-left: 10px;}
+h4{color: darkblue;
+margin-left: 10px;}

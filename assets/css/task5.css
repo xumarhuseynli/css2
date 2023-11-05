@@ -1,0 +1,9 @@
+*{margin: o;
+padding: 0;
+box-sizing: border-box;}
+.box{border: 3px solid blue;}
+.box1{border: 3px solid red;
+font-size: medium;
+font-weight: 600;
+padding-bottom: 30px;
+padding-top: 30px;}

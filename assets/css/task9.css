@@ -1,0 +1,42 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.box1{color: red;
+text-align: center;
+margin: 10px 0px;}
+.box2{color: red;
+border: 4px dotted blue;
+text-align: center;
+margin: 10px 0px;}
+.box3{color: red;
+    border: 4px dashed blue;
+text-align: center;
+margin: 10px 0px;}
+.box4{color: red;
+    border: 4px solid blue;
+text-align: center;
+margin: 10px 0px;}
+.box5{color: red;
+    border: 4px double blue;
+text-align: center;
+margin: 10px 0px;}
+.box6{color: red;
+    border: 4px groove blue;
+text-align: center;
+margin: 10px 0px;}
+.box7{color: red;
+    border: 4px ridge blue;
+text-align: center;
+margin: 10px 0px;}
+.box8{color: red;
+    border: 4px inset blue;
+text-align: center;
+margin: 10px 0px;}
+.box9{color: red;
+    border: 4px outset blue;
+text-align: center;
+margin: 10px 0px;}
+.box10{color: red;
+    margin: 10px 0px;
+text-align: center;}
+   
